@@ -1,0 +1,15 @@
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/bin/Debug/net6.0/Task3
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/bin/Debug/net6.0/Task3.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/ДЗ/HomeWork8/Task3/obj/Debug/net6.0/ref/Task3.dll
